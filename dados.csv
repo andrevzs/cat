@@ -1,11 +1,11 @@
-Numero;Simbolo;Nome;Serie quimica;Grupo;Periodo;
-1;H;Hidrogênio;Não-metal;1;1;
-2;He;Hélio;Gases nobres;18;1;
-3;Li;Lítio;Metais alcalinos;1;2;
-4;Be;Berílio;Metal alcalinoterroso;2;2;
-5;B;Boro;Semimetal;13;2;
-6;C;Carbono;Não metal;14;2;
-7;N;Nitrogênio;Não metal;15;2;
-8;O;Oxigênio;Não metal;16;2;
-9;F;Flúor;Halogênio;17;2;
-10;Ne;Neônio;Gases Nobres;18;2;
+Numero,Simbolo,Nome,Serie quimica,Grupo,Periodo,
+1,H,Hidrogênio,Não-metal,1,1,
+2,He,Hélio,Gases nobres,18,1,
+3,Li,Lítio,Metais alcalinos,1,2,
+4,Be,Berílio,Metal alcalinoterroso,2,2,
+5,B,Boro,Semimetal,13,2,
+6,C,Carbono,Não metal,14,2,
+7,N,Nitrogênio,Não metal,15,2,
+8,O,Oxigênio,Não metal,16,2,
+9,F,Flúor,Halogênio,17,2,
+10,Ne,Neônio,Gases Nobres,18,2,

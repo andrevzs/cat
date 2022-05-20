@@ -1,6 +1,6 @@
 import pandas as pd
 
-dados = pd.read_csv('dados.csv', sep=';', header=[0])
+dados = pd.read_csv('dados.csv', header=[0])
 
 print('**************************************')
 
