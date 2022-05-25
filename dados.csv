@@ -1,55 +1,55 @@
-Numero,Simbolo,Nome,Serie quimica,Grupo,Periodo,
-1,H,Hidrogênio,Não-metal,1,1,
-2,He,Hélio,Gás nobre,18,1,
-3,Li,Lítio,Metal alcalino,1,2,
-4,Be,Berílio,Metal alcalinoterroso,2,2,
-5,B,Boro,Semimetal,13,2,
-6,C,Carbono,Não metal,14,2,
-7,N,Nitrogênio,Não metal,15,2,
-8,O,Oxigênio,Não metal,16,2,
-9,F,Flúor,Halogênio,17,2,
-10,Ne,Neônio,Gás nobre,18,2,
-11,Na,Sódio,Metal alcalino,1,3,
-12,Mg,Magnésio,Metal alcalinoterroso,2,3,
-13,Al,Alumínio,Metal representativo,13,3,
-14,Si,Silício,Semimetal,14,3,
-15,P,Fósforo,Não metal,15,3,
-16,S,Enxofre,Não metal,16,3,
-17,Cl,Cloro,Halogênio,17,3,
-18,Ar,Argônio,Gás nobre,18,3,
-19,K,Potássio,Metal alcalino,1,4,
-20,Ca,Cálcio,Metal alcalinoterroso,2,4,
-21,Sc,Escândio,Metal de transição,3,4,
-22,Ti,Titânio,Metal de transição,4,4,
-23,V,Vanádio,Metal de transição,5,4,
-24,Cr,Cromo,Metal de transição,6,4,
-25,Mn,Manganês,Metal de transição,7,4,
-26,Fe,Ferro,Metal de transição,8,4,
-27,Co,Cobalto,Metal de transição,9,4,
-28,Ni,Níquel,Metal de transição,10,4,
-29,Cu,Cobre,Metal de transição,11,4,
-30,Zn,Zinco,Metal de transição,12,4,
-31,Ga,Gálio,Metal representativo,13,4,
-32,Ge,Germânio,Semimetal,14,4,
-33,As,Arsênio,Semimetal,15,4,
-34,Se,Selênio,Não metal,16,4,
-35,Br,Bromo,Não metal,17,4,
-36,Kr,Criptônio,Gás nobre,18,4,
-37,Rb,Rubídio,Metal alcalino,1,5,
-38,Sr,Estrôncio,Metal alcalinoterroso,2,5,
-39,Y,Ítrio,Metal de transição,3,5,
-40,Zr,Zircônio,Metal de transição,4,5,
-41,Nb,Nióbio,Metal de transição,5,5,
-42,Mo,Molibdênio,Metal de transição,6,5,
-43,Tc,Tecnécio,Metal de transição,7,5,
-44,Ru,Rutênio,Metal de transição,8,5,
-45,Rh,Ródio,Metal de transição,9,5,
-46,Pd,Paládio,Metal de transição,10,5,
-47,Ag,Prata,Metal de transição,11,5,
-48,Cd,Cádmio,Metal de transição,12,5,
-49,In,Índio,Metal representativo,13,5,
-50,Sn,Estanho,Metal representativo,4,5,
-51,Sb,Antimônio,Semimetal,15,5,
-52,Te,Telúrio,Semimetal,16,5,
-53,I,Iodo,Halogênio,17,5,
-54,Xe,Xenônio,Gás nobre,18,5,
+Numero,Simbolo,Nome,Serie quimica,Grupo,Periodo
+1,H,Hidrogênio,Não-metal,1,1
+2,He,Hélio,Gás nobre,18,1
+3,Li,Lítio,Metal alcalino,1,2
+4,Be,Berílio,Metal alcalinoterroso,2,2
+5,B,Boro,Semimetal,13,2
+6,C,Carbono,Não metal,14,2
+7,N,Nitrogênio,Não metal,15,2
+8,O,Oxigênio,Não metal,16,2
+9,F,Flúor,Halogênio,17,2
+10,Ne,Neônio,Gás nobre,18,2
+11,Na,Sódio,Metal alcalino,1,3
+12,Mg,Magnésio,Metal alcalinoterroso,2,3
+13,Al,Alumínio,Metal representativo,13,3
+14,Si,Silício,Semimetal,14,3
+15,P,Fósforo,Não metal,15,3
+16,S,Enxofre,Não metal,16,3
+17,Cl,Cloro,Halogênio,17,3
+18,Ar,Argônio,Gás nobre,18,3
+19,K,Potássio,Metal alcalino,1,4
+20,Ca,Cálcio,Metal alcalinoterroso,2,4
+21,Sc,Escândio,Metal de transição,3,4
+22,Ti,Titânio,Metal de transição,4,4
+23,V,Vanádio,Metal de transição,5,4
+24,Cr,Cromo,Metal de transição,6,4
+25,Mn,Manganês,Metal de transição,7,4
+26,Fe,Ferro,Metal de transição,8,4
+27,Co,Cobalto,Metal de transição,9,4
+28,Ni,Níquel,Metal de transição,10,4
+29,Cu,Cobre,Metal de transição,11,4
+30,Zn,Zinco,Metal de transição,12,4
+31,Ga,Gálio,Metal representativo,13,4
+32,Ge,Germânio,Semimetal,14,4
+33,As,Arsênio,Semimetal,15,4
+34,Se,Selênio,Não metal,16,4
+35,Br,Bromo,Não metal,17,4
+36,Kr,Criptônio,Gás nobre,18,4
+37,Rb,Rubídio,Metal alcalino,1,5
+38,Sr,Estrôncio,Metal alcalinoterroso,2,5
+39,Y,Ítrio,Metal de transição,3,5
+40,Zr,Zircônio,Metal de transição,4,5
+41,Nb,Nióbio,Metal de transição,5,5
+42,Mo,Molibdênio,Metal de transição,6,5
+43,Tc,Tecnécio,Metal de transição,7,5
+44,Ru,Rutênio,Metal de transição,8,5
+45,Rh,Ródio,Metal de transição,9,5
+46,Pd,Paládio,Metal de transição,10,5
+47,Ag,Prata,Metal de transição,11,5
+48,Cd,Cádmio,Metal de transição,12,5
+49,In,Índio,Metal representativo,13,5
+50,Sn,Estanho,Metal representativo,4,5
+51,Sb,Antimônio,Semimetal,15,5
+52,Te,Telúrio,Semimetal,16,5
+53,I,Iodo,Halogênio,17,5
+54,Xe,Xenônio,Gás nobre,18,5
