@@ -53,3 +53,35 @@ Numero,Simbolo,Nome,Serie quimica,Grupo,Periodo
 52,Te,Telúrio,Semimetal,16,5
 53,I,Iodo,Halogênio,17,5
 54,Xe,Xenônio,Gás nobre,18,5
+55,Cs,Césio,Metal alcalino,1,6
+56,Ba,Bário,Metal alcalinoterroso,2,6
+57,La,Lantânio,Lantanídio,3,6
+58,Ce,Cério,Lantanídio,-,6
+59,Pr,Praseomídio,Lantanídio,-,6
+60,Nd,Neodímio,Lantanídio,-,6
+61,Pm,Promécio,Lantanídio,-,6
+62,Sm,Samário,Lantanidio,-,6
+63,Eu,Európio,Lantanídio,-,6
+64,Gd,Gadolínio, Lantanídio,-,6
+65,Tb,Térbio,Lantanídio,-,6
+66,Dy,Disprósio,Lantanídio,-,6
+67,Ho,Hólmio,Lantanídio,-,6
+68,Er,Érbio,Lantanídio,-,6
+69,Tm,Túlio,Lantanídio,-,6
+70,Yb,Itérbio,Lantanídio,-,6
+71,Lu,Lutécio,Lantanídio,-,6
+72,Hf,Háfnio,Lantanídio,-,6
+73,Ta,Tântalo,Metal de transição,5,6
+74,W,Tungstênio,Metal de transição,6,6
+75,Re,Rênio,Metal de transição,7,6
+76,Os,Ósmio,Metal de transição,8,6
+77,Ir,Irídio,Metal de transição,9,6
+78,Pt,Platina,Metal de transição,10,6
+79,Au,Ouro,Metal de transição,11,6
+80,Hg,Mercúrio,Metal de transição,12,6
+81,Tl,Tálio,Metal representativo,13,6
+82,Pb,Chumbo,Metal representativo,14,6
+83,Bi,Bismuto,Metal representativo,15,6
+84,Po,Polônio,Semimetal,16,6
+85,At,Ástato,Halogênio,17,6
+86,Rn,Radônio,Gás nobre,18,6
